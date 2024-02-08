@@ -1,3 +1,5 @@
+package syll25.bankaccount;
+
 public class BankAccount {
 
     private int accountNumber;
